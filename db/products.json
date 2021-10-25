@@ -1,0 +1,103 @@
+[{
+  "_id": {
+    "$oid": "61388632f9c03719ba96ecf8"
+  },
+  "title": "Unisex Drawcord Scrub Pants Jade",
+  "slug": "unisex-drawcord-scrub-pants-jade",
+  "description": "Cotton/Poly Fashion Blend, Reversible, Right hip pocket on both sides, Drawcord closure with easy glide color-coded webbing.",
+  "price": 190,
+  "category": {
+    "$oid": "613770e3bee1d4b0e780039e"
+  },
+  "subs": [
+    {
+      "$oid": "6137971f74af72838a2b42d2"
+    }
+  ],
+  "quantity": 97,
+  "sold": 2,
+  "images": [
+    {
+      "public_id": "n4gb6u9pcrpptns6dnv5",
+      "url": "https://res.cloudinary.com/eweb/image/upload/v1631094307/n4gb6u9pcrpptns6dnv5.jpg"
+    }
+  ],
+  "shipping": "Yes",
+  "color": "Silver",
+  "brand": "Pants",
+  "createdAt": {
+    "$date": "2021-09-08T09:45:22.956Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-11T07:54:29.433Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6138b0efd46828ecb1927047"
+  },
+  "title": "Thermometer Digital",
+  "slug": "thermometer-digital",
+  "description": "Compact size - under 5” long, weighs just 11 grams, Range 90.0°F to 109.0°F ±.2°F or 32.0°C to 42.9°C ±.1°C, depending upon scale selection, Reads in as little as 30 seconds (typical response time 30-40 seconds), Replaceable 1.55V (LR41) type battery provides up to 4,500 measurements, Scabbard carry case keeps instrument sanitary, Meets the accuracy requirements for intermittent thermometers under ASTM E1112.",
+  "price": 299,
+  "category": {
+    "$oid": "6137713ebee1d4b0e78003a1"
+  },
+  "subs": [
+    {
+      "$oid": "6138b113d46828ecb192705a"
+    }
+  ],
+  "quantity": 95,
+  "sold": 4,
+  "images": [
+    {
+      "public_id": "hqnic5lrjfva9pebvvol",
+      "url": "https://res.cloudinary.com/eweb/image/upload/v1631105312/hqnic5lrjfva9pebvvol.jpg"
+    }
+  ],
+  "shipping": "Yes",
+  "color": "Black",
+  "brand": "Jacket",
+  "createdAt": {
+    "$date": "2021-09-08T12:47:43.796Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-11T16:06:20.969Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6138b20bd46828ecb192708c"
+  },
+  "title": "Protective Face Shield",
+  "slug": "protective-face-shield",
+  "description": "Full coverage wrap-around face shields are made from polyethylene terephthalate plastic and are designed to prevent exposure to liquid splash, spit, chemicals, and sneeze droplets. Waterproof, latex-free, and dust resistant, the Face Shields offer high quality, 180 degree protection in home, dental, educational, and commercial settings. Face Shields meet the ANSI z87.1 standard.",
+  "price": 10,
+  "category": {
+    "$oid": "6137713ebee1d4b0e78003a1"
+  },
+  "subs": [
+    {
+      "$oid": "6138b196d46828ecb192706d"
+    }
+  ],
+  "quantity": 97,
+  "sold": 2,
+  "images": [
+    {
+      "public_id": "crjlxnaopdzvjavcsnvc",
+      "url": "https://res.cloudinary.com/eweb/image/upload/v1631105517/crjlxnaopdzvjavcsnvc.jpg"
+    }
+  ],
+  "shipping": "Yes",
+  "color": "White",
+  "brand": "Pants",
+  "createdAt": {
+    "$date": "2021-09-08T12:52:27.249Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-12T02:26:22.905Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "613770e3bee1d4b0e780039e"
+  },
+  "name": "Apparel",
+  "slug": "apparel",
+  "createdAt": {
+    "$date": "2021-09-07T14:02:11.745Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-07T14:02:11.745Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6137713ebee1d4b0e78003a1"
+  },
+  "name": "Nursing",
+  "slug": "nursing",
+  "createdAt": {
+    "$date": "2021-09-07T14:03:42.512Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-07T14:03:42.512Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61377155bee1d4b0e78003a4"
+  },
+  "name": "Tool",
+  "slug": "tool",
+  "createdAt": {
+    "$date": "2021-09-07T14:04:05.149Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-07T14:04:05.149Z"
+  },
+  "__v": 0
+}]

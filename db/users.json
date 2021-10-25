@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "6135ecb1d3248896108ddd78"
+  },
+  "name": "kcnreverse",
+  "email": "kcnreverse@gmail.com",
+  "role": "admin",
+  "cart": [],
+  "createdAt": {
+    "$date": "2021-09-06T10:25:53.278Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-12T02:26:21.954Z"
+  },
+  "__v": 0,
+  "address": "<p>hn</p>"
+},{
+  "_id": {
+    "$oid": "613c2a903f16f774bafa6822"
+  },
+  "name": "nguyenthanhtks25",
+  "email": "nguyenthanhtks25@gmail.com",
+  "role": "subscriber",
+  "cart": [],
+  "createdAt": {
+    "$date": "2021-09-11T04:03:28.623Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-11T07:54:22.244Z"
+  },
+  "__v": 0,
+  "address": "<p>hn</p>"
+}]

@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6137971f74af72838a2b42d2"
+  },
+  "name": "Clothes",
+  "slug": "clothes",
+  "parent": {
+    "$oid": "613770e3bee1d4b0e780039e"
+  },
+  "createdAt": {
+    "$date": "2021-09-07T16:45:19.745Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-08T12:50:47.231Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6138b113d46828ecb192705a"
+  },
+  "name": "Thermometer",
+  "slug": "thermometer",
+  "parent": {
+    "$oid": "6137713ebee1d4b0e78003a1"
+  },
+  "createdAt": {
+    "$date": "2021-09-08T12:48:19.600Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-08T12:48:19.600Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6138b196d46828ecb192706d"
+  },
+  "name": "Protective Face Shield",
+  "slug": "protective-face-shield",
+  "parent": {
+    "$oid": "6137713ebee1d4b0e78003a1"
+  },
+  "createdAt": {
+    "$date": "2021-09-08T12:50:30.528Z"
+  },
+  "updatedAt": {
+    "$date": "2021-09-08T12:50:30.528Z"
+  },
+  "__v": 0
+}]
